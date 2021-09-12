@@ -1,0 +1,26 @@
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.on{
+    color: #F6412D;
+}
+
+.display-on{
+    color: #F6412D;
+}
+
+.off{
+    color: #ccc;
+}
+
+.off:hover{
+    color: #FFEC19;
+}
+
+.display-off{
+    color: #ccc;
+}

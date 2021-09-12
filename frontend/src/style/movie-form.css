@@ -1,0 +1,40 @@
+.request-section-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    background-color: #FFC100;
+    border: 10px solid #F6412D !important;
+}
+
+.request-section-header h3 {
+    margin-top: 8px;
+}
+
+.request-section-header .movie-form-btn{
+    background-color: #FFC100;
+    color: black;
+    margin-left: 10px;
+}
+
+.request-section-header .movie-form-btn:hover {
+    background-color: #F6412D;
+    color: white;
+}
+
+.movie-info-group p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.movie-info-group input {
+    margin-bottom: 10px;
+}
+

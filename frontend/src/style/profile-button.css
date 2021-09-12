@@ -1,0 +1,22 @@
+.dropdown .dropdown-menu{
+    position: absolute;
+    background-color: #F6412D;
+    border-width: 1px;
+    border-color: white;
+}
+
+.dropdown img{
+    height: 35px;
+    width: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.dropdown button{
+    border-width: 0px;
+    color: #FFEC19;
+}
+
+.dropdown-menu .dropdown-item:hover{
+    background-color: #FF9800;
+}

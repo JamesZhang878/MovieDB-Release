@@ -1,0 +1,15 @@
+.request .card-text {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card-footer .footer-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer-buttons .btn {
+    margin-right: 10px;
+    border-width: 0px;
+}
